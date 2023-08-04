@@ -1,0 +1,8 @@
+VK_API_URL = 'https://api.vk.com/method'
+VK_API_SEND_MESSAGE_PATH = '/messages.send'
+VK_API_DELETE_MESSAGE_PATH = '/messages.delete'
+VK_API_EDIT_MESSAGE_PATH = '/messages.edit'
+VK_API_GET_MESSAGE_BY_CONSERVATION_ID_PATH = '/messages.getByConversationMessageId'
+VK_API_GET_UPLOAD_SERVER_PHOTO_PATH = '/photos.getMessagesUploadServer'
+VK_API_SAVE_MESSAGE_PHOTO_PATH = '/photos.saveMessagesPhoto'
+VK_API_GET_USERS_PATH = '/users.get'

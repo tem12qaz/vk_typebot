@@ -1,0 +1,2 @@
+2023-02-13 02:06:18,976 - logger - ERROR - bot_class.py:bot_class:92 - REQUEST ERROR id100 msgOne of the parameters specified was missing or invalid: message is empty or invalid
+2023-02-13 02:06:44,083 - logger - ERROR - bot_class.py:bot_class:92 - REQUEST ERROR id100 msg "One of the parameters specified was missing or invalid: message is empty or invalid"
